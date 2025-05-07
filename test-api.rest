@@ -1,0 +1,21 @@
+@baseUrl=https://world.openfoodfacts.org/cgi
+@searchEndPoint=/search.pl
+@nutrient=protein
+@quantity=100
+
+### 
+# @name productForProtein100g
+GET {{baseUrl}}{{searchEndPoint}}?json=1&fields=product_name,nutriments,code,name
+&sort_by={{nutrient}}_{{quantity}}g&action=process
+
+###
+# @name jsonRequestExample
+POST {{baseUrl}}?json=1&fields=product_name,nutriments,code
+&sort_by={macro}_100g&action=process
+Content-Type: application/json
+
+{
+
+}
+
+# download REST CLIENT huachao mao 
