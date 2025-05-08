@@ -1,8 +1,15 @@
 @baseUrl=https://world.openfoodfacts.org/cgi
+@apiUrl=https://us.openfoodfacts.org/api
 @searchEndPoint=/search.pl
 @nutrient=protein
 @quantity=100
-
+@PepsicoPepsiColaSoda=/v0/product/01223004
+@CocaColaClassicCokeSoftDrink=/v0/product/04963406
+@DietPepsi=/v0/product/069000019832
+@CocaColaZero=/v0/product/5000112519945
+@pestoAllaGenoveseConad=/v2/product/8003170055230
+@pestoAllaGenoveseLidl=/v2/product/4056489230083
+@pestoAllaGenoveseEurospin=/v2/product/8017596050625
 ### 
 # @name productForProtein100g
 GET {{baseUrl}}{{searchEndPoint}}?json=1&fields=product_name,nutriments,code,name
@@ -17,5 +24,21 @@ Content-Type: application/json
 {
 
 }
+
+###
+# @name pepsicoPepsiCola
+GET {{apiUrl}}{{PepsicoPepsiColaSoda}}
+
+###
+# @name pestoConad
+GET {{apiUrl}}{{pestoAllaGenoveseConad}}
+
+###
+# @name pestoLidl
+GET {{apiUrl}}{{pestoAllaGenoveseLidl}}
+###
+# @name pestoEurospin
+GET {{apiUrl}}{{pestoAllaGenoveseEurospin}}
+
 
 # download REST CLIENT huachao mao 

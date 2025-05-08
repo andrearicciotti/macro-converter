@@ -1,0 +1,1858 @@
+{
+  "code": "8017596050625",
+  "product": {
+    "_id": "8017596050625",
+    "_keywords": [
+      "alla",
+      "condimenti",
+      "eurospin",
+      "genovese",
+      "grocerie",
+      "pesto",
+      "salse"
+    ],
+    "added_countries_tags": [],
+    "additives_n": 0,
+    "additives_original_tags": [],
+    "additives_tags": [],
+    "allergens": "",
+    "allergens_from_ingredients": "",
+    "allergens_from_user": "(it) ",
+    "allergens_hierarchy": [],
+    "allergens_tags": [],
+    "amino_acids_prev_tags": [],
+    "amino_acids_tags": [],
+    "brands": "Eurospin",
+    "brands_old": "Eurospin",
+    "brands_tags": [
+      "eurospin"
+    ],
+    "categories": "Condimenti, Salse, Pesto, Pesto alla Genovese, en:groceries",
+    "categories_hierarchy": [
+      "en:condiments",
+      "en:sauces",
+      "en:pestos",
+      "en:green-pestos",
+      "en:groceries"
+    ],
+    "categories_lc": "it",
+    "categories_old": "Condimenti, Salse, Pesto, Pesto alla Genovese, en:groceries",
+    "categories_properties": {
+      "agribalyse_food_code:en": "11179",
+      "ciqual_food_code:en": "11179"
+    },
+    "categories_properties_tags": [
+      "all-products",
+      "categories-known",
+      "agribalyse-food-code-11179",
+      "agribalyse-food-code-known",
+      "agribalyse-proxy-food-code-unknown",
+      "ciqual-food-code-11179",
+      "ciqual-food-code-known",
+      "agribalyse-known",
+      "agribalyse-11179"
+    ],
+    "categories_tags": [
+      "en:condiments",
+      "en:sauces",
+      "en:pestos",
+      "en:green-pestos",
+      "en:groceries"
+    ],
+    "category_properties": {
+      "ciqual_food_name:en": "Sauce, pesto, prepacked",
+      "ciqual_food_name:fr": "Sauce pesto, préemballée"
+    },
+    "checkers_tags": [],
+    "ciqual_food_name_tags": [
+      "sauce-pesto-prepacked"
+    ],
+    "code": "8017596050625",
+    "codes_tags": [
+      "code-13",
+      "8017596050xxx",
+      "801759605xxxx",
+      "80175960xxxxx",
+      "8017596xxxxxx",
+      "801759xxxxxxx",
+      "80175xxxxxxxx",
+      "8017xxxxxxxxx",
+      "801xxxxxxxxxx",
+      "80xxxxxxxxxxx",
+      "8xxxxxxxxxxxx"
+    ],
+    "compared_to_category": "en:groceries",
+    "complete": 0,
+    "completeness": 0.65,
+    "correctors_tags": [
+      "openfoodfacts-contributors",
+      "teolemon",
+      "sebleouf",
+      "kiliweb",
+      "telperion87"
+    ],
+    "countries": "France, Italy",
+    "countries_hierarchy": [
+      "en:france",
+      "en:italy"
+    ],
+    "countries_lc": "en",
+    "countries_tags": [
+      "en:france",
+      "en:italy"
+    ],
+    "created_t": 1537211522,
+    "creator": "kiliweb",
+    "data_quality_bugs_tags": [],
+    "data_quality_errors_tags": [],
+    "data_quality_info_tags": [
+      "en:no-packaging-data",
+      "en:environmental-score-extended-data-not-computed",
+      "en:food-groups-1-known",
+      "en:food-groups-2-known",
+      "en:food-groups-3-unknown"
+    ],
+    "data_quality_tags": [
+      "en:no-packaging-data",
+      "en:environmental-score-extended-data-not-computed",
+      "en:food-groups-1-known",
+      "en:food-groups-2-known",
+      "en:food-groups-3-unknown",
+      "en:ingredients-language-mismatch-fr-contains-it",
+      "en:ingredients-unknown-score-above-30",
+      "en:ingredients-90-percent-unknown",
+      "en:ingredients-ingredient-tag-length-greater-than-50",
+      "en:ingredients-fr-5-consonants",
+      "en:ingredients-percent-analysis-not-ok",
+      "en:environmental-score-origins-of-ingredients-origins-are-100-percent-unknown",
+      "en:environmental-score-packaging-packaging-data-missing",
+      "en:environmental-score-production-system-no-label"
+    ],
+    "data_quality_warnings_tags": [
+      "en:ingredients-language-mismatch-fr-contains-it",
+      "en:ingredients-unknown-score-above-30",
+      "en:ingredients-90-percent-unknown",
+      "en:ingredients-ingredient-tag-length-greater-than-50",
+      "en:ingredients-fr-5-consonants",
+      "en:ingredients-percent-analysis-not-ok",
+      "en:environmental-score-origins-of-ingredients-origins-are-100-percent-unknown",
+      "en:environmental-score-packaging-packaging-data-missing",
+      "en:environmental-score-production-system-no-label"
+    ],
+    "data_sources": "App - yuka, Apps, App - Open Food Facts",
+    "data_sources_tags": [
+      "app-yuka",
+      "apps",
+      "app-open-food-facts"
+    ],
+    "ecoscore_data": {
+      "adjustments": {
+        "origins_of_ingredients": {
+          "aggregated_origins": [
+            {
+              "epi_score": "0",
+              "origin": "en:unknown",
+              "percent": 100,
+              "transportation_score": 0
+            }
+          ],
+          "epi_score": 0,
+          "epi_value": -5,
+          "origins_from_categories": [
+            "en:unknown"
+          ],
+          "origins_from_origins_field": [
+            "en:unknown"
+          ],
+          "transportation_score": 0,
+          "transportation_scores": {
+            "ad": 0,
+            "al": 0,
+            "at": 0,
+            "ax": 0,
+            "ba": 0,
+            "be": 0,
+            "bg": 0,
+            "ch": 0,
+            "cy": 0,
+            "cz": 0,
+            "de": 0,
+            "dk": 0,
+            "dz": 0,
+            "ee": 0,
+            "eg": 0,
+            "es": 0,
+            "fi": 0,
+            "fo": 0,
+            "fr": 0,
+            "gg": 0,
+            "gi": 0,
+            "gr": 0,
+            "hr": 0,
+            "hu": 0,
+            "ie": 0,
+            "il": 0,
+            "im": 0,
+            "is": 0,
+            "it": 0,
+            "je": 0,
+            "lb": 0,
+            "li": 0,
+            "lt": 0,
+            "lu": 0,
+            "lv": 0,
+            "ly": 0,
+            "ma": 0,
+            "mc": 0,
+            "md": 0,
+            "me": 0,
+            "mk": 0,
+            "mt": 0,
+            "nl": 0,
+            "no": 0,
+            "pl": 0,
+            "ps": 0,
+            "pt": 0,
+            "ro": 0,
+            "rs": 0,
+            "se": 0,
+            "si": 0,
+            "sj": 0,
+            "sk": 0,
+            "sm": 0,
+            "sy": 0,
+            "tn": 0,
+            "tr": 0,
+            "ua": 0,
+            "uk": 0,
+            "us": 0,
+            "va": 0,
+            "world": 0,
+            "xk": 0
+          },
+          "transportation_value": 0,
+          "transportation_values": {
+            "ad": 0,
+            "al": 0,
+            "at": 0,
+            "ax": 0,
+            "ba": 0,
+            "be": 0,
+            "bg": 0,
+            "ch": 0,
+            "cy": 0,
+            "cz": 0,
+            "de": 0,
+            "dk": 0,
+            "dz": 0,
+            "ee": 0,
+            "eg": 0,
+            "es": 0,
+            "fi": 0,
+            "fo": 0,
+            "fr": 0,
+            "gg": 0,
+            "gi": 0,
+            "gr": 0,
+            "hr": 0,
+            "hu": 0,
+            "ie": 0,
+            "il": 0,
+            "im": 0,
+            "is": 0,
+            "it": 0,
+            "je": 0,
+            "lb": 0,
+            "li": 0,
+            "lt": 0,
+            "lu": 0,
+            "lv": 0,
+            "ly": 0,
+            "ma": 0,
+            "mc": 0,
+            "md": 0,
+            "me": 0,
+            "mk": 0,
+            "mt": 0,
+            "nl": 0,
+            "no": 0,
+            "pl": 0,
+            "ps": 0,
+            "pt": 0,
+            "ro": 0,
+            "rs": 0,
+            "se": 0,
+            "si": 0,
+            "sj": 0,
+            "sk": 0,
+            "sm": 0,
+            "sy": 0,
+            "tn": 0,
+            "tr": 0,
+            "ua": 0,
+            "uk": 0,
+            "us": 0,
+            "va": 0,
+            "world": 0,
+            "xk": 0
+          },
+          "value": -5,
+          "values": {
+            "ad": -5,
+            "al": -5,
+            "at": -5,
+            "ax": -5,
+            "ba": -5,
+            "be": -5,
+            "bg": -5,
+            "ch": -5,
+            "cy": -5,
+            "cz": -5,
+            "de": -5,
+            "dk": -5,
+            "dz": -5,
+            "ee": -5,
+            "eg": -5,
+            "es": -5,
+            "fi": -5,
+            "fo": -5,
+            "fr": -5,
+            "gg": -5,
+            "gi": -5,
+            "gr": -5,
+            "hr": -5,
+            "hu": -5,
+            "ie": -5,
+            "il": -5,
+            "im": -5,
+            "is": -5,
+            "it": -5,
+            "je": -5,
+            "lb": -5,
+            "li": -5,
+            "lt": -5,
+            "lu": -5,
+            "lv": -5,
+            "ly": -5,
+            "ma": -5,
+            "mc": -5,
+            "md": -5,
+            "me": -5,
+            "mk": -5,
+            "mt": -5,
+            "nl": -5,
+            "no": -5,
+            "pl": -5,
+            "ps": -5,
+            "pt": -5,
+            "ro": -5,
+            "rs": -5,
+            "se": -5,
+            "si": -5,
+            "sj": -5,
+            "sk": -5,
+            "sm": -5,
+            "sy": -5,
+            "tn": -5,
+            "tr": -5,
+            "ua": -5,
+            "uk": -5,
+            "us": -5,
+            "va": -5,
+            "world": -5,
+            "xk": -5
+          },
+          "warning": "origins_are_100_percent_unknown"
+        },
+        "packaging": {
+          "value": -15,
+          "warning": "packaging_data_missing"
+        },
+        "production_system": {
+          "labels": [],
+          "value": 0,
+          "warning": "no_label"
+        },
+        "threatened_species": {}
+      },
+      "agribalyse": {
+        "agribalyse_food_code": "11179",
+        "co2_agriculture": 1.7612196,
+        "co2_consumption": 0.017696322,
+        "co2_distribution": 0.039976883,
+        "co2_packaging": 0.17709348,
+        "co2_processing": 0.30203732,
+        "co2_total": 2.563660365,
+        "co2_transportation": 0.26563676,
+        "code": "11179",
+        "dqr": "3.09",
+        "ef_agriculture": 0.34720877,
+        "ef_consumption": 0.0064760466,
+        "ef_distribution": 0.0092187667,
+        "ef_packaging": 0.019424246,
+        "ef_processing": 0.044600059,
+        "ef_total": 0.4477012783,
+        "ef_transportation": 0.02077339,
+        "is_beverage": 0,
+        "name_en": "Sauce, pesto, prepacked",
+        "name_fr": "Sauce pesto, préemballée",
+        "score": 58,
+        "version": "3.1.1"
+      },
+      "grade": "d",
+      "grades": {
+        "ad": "d",
+        "al": "d",
+        "at": "d",
+        "ax": "d",
+        "ba": "d",
+        "be": "d",
+        "bg": "d",
+        "ch": "d",
+        "cy": "d",
+        "cz": "d",
+        "de": "d",
+        "dk": "d",
+        "dz": "d",
+        "ee": "d",
+        "eg": "d",
+        "es": "d",
+        "fi": "d",
+        "fo": "d",
+        "fr": "d",
+        "gg": "d",
+        "gi": "d",
+        "gr": "d",
+        "hr": "d",
+        "hu": "d",
+        "ie": "d",
+        "il": "d",
+        "im": "d",
+        "is": "d",
+        "it": "d",
+        "je": "d",
+        "lb": "d",
+        "li": "d",
+        "lt": "d",
+        "lu": "d",
+        "lv": "d",
+        "ly": "d",
+        "ma": "d",
+        "mc": "d",
+        "md": "d",
+        "me": "d",
+        "mk": "d",
+        "mt": "d",
+        "nl": "d",
+        "no": "d",
+        "pl": "d",
+        "ps": "d",
+        "pt": "d",
+        "ro": "d",
+        "rs": "d",
+        "se": "d",
+        "si": "d",
+        "sj": "d",
+        "sk": "d",
+        "sm": "d",
+        "sy": "d",
+        "tn": "d",
+        "tr": "d",
+        "ua": "d",
+        "uk": "d",
+        "us": "d",
+        "va": "d",
+        "world": "d",
+        "xk": "d"
+      },
+      "missing": {
+        "labels": 1,
+        "origins": 1,
+        "packagings": 1
+      },
+      "missing_data_warning": 1,
+      "missing_key_data": 1,
+      "score": 38,
+      "scores": {
+        "ad": 38,
+        "al": 38,
+        "at": 38,
+        "ax": 38,
+        "ba": 38,
+        "be": 38,
+        "bg": 38,
+        "ch": 38,
+        "cy": 38,
+        "cz": 38,
+        "de": 38,
+        "dk": 38,
+        "dz": 38,
+        "ee": 38,
+        "eg": 38,
+        "es": 38,
+        "fi": 38,
+        "fo": 38,
+        "fr": 38,
+        "gg": 38,
+        "gi": 38,
+        "gr": 38,
+        "hr": 38,
+        "hu": 38,
+        "ie": 38,
+        "il": 38,
+        "im": 38,
+        "is": 38,
+        "it": 38,
+        "je": 38,
+        "lb": 38,
+        "li": 38,
+        "lt": 38,
+        "lu": 38,
+        "lv": 38,
+        "ly": 38,
+        "ma": 38,
+        "mc": 38,
+        "md": 38,
+        "me": 38,
+        "mk": 38,
+        "mt": 38,
+        "nl": 38,
+        "no": 38,
+        "pl": 38,
+        "ps": 38,
+        "pt": 38,
+        "ro": 38,
+        "rs": 38,
+        "se": 38,
+        "si": 38,
+        "sj": 38,
+        "sk": 38,
+        "sm": 38,
+        "sy": 38,
+        "tn": 38,
+        "tr": 38,
+        "ua": 38,
+        "uk": 38,
+        "us": 38,
+        "va": 38,
+        "world": 38,
+        "xk": 38
+      },
+      "status": "known"
+    },
+    "ecoscore_grade": "d",
+    "ecoscore_score": 38,
+    "ecoscore_tags": [
+      "d"
+    ],
+    "editors_tags": [
+      "kiliweb",
+      "montiitalia4-gmail-com",
+      "naruyoko",
+      "openfoodfacts-contributors",
+      "sebleouf",
+      "telperion87",
+      "teolemon",
+      "yuka.YUtvaEgvZ1AvZnRTcDhjZzFDejErdU4xNjdYMEFVaStMY1VXSVE9PQ",
+      "yuka.sY2b0xO6T85zoF3NwEKvlnAYT9rHgGjiFBvms26i68WXNsLlf4lOya3xbqo"
+    ],
+    "entry_dates_tags": [
+      "2018-09-17",
+      "2018-09",
+      "2018"
+    ],
+    "food_groups": "en:dressings-and-sauces",
+    "food_groups_tags": [
+      "en:fats-and-sauces",
+      "en:dressings-and-sauces"
+    ],
+    "id": "8017596050625",
+    "images": {
+      "1": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 46
+          },
+          "400": {
+            "h": 400,
+            "w": 186
+          },
+          "full": {
+            "h": 1200,
+            "w": 557
+          }
+        },
+        "uploaded_t": 1537211523,
+        "uploader": "kiliweb"
+      },
+      "2": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 50
+          },
+          "400": {
+            "h": 400,
+            "w": 200
+          },
+          "full": {
+            "h": 1200,
+            "w": 600
+          }
+        },
+        "uploaded_t": 1537211524,
+        "uploader": "kiliweb"
+      },
+      "3": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 46
+          },
+          "400": {
+            "h": 400,
+            "w": 186
+          },
+          "full": {
+            "h": 1200,
+            "w": 557
+          }
+        },
+        "uploaded_t": 1606246054,
+        "uploader": "kiliweb"
+      },
+      "4": {
+        "sizes": {
+          "100": {
+            "h": 94,
+            "w": 100
+          },
+          "400": {
+            "h": 378,
+            "w": 400
+          },
+          "full": {
+            "h": 1200,
+            "w": 1271
+          }
+        },
+        "uploaded_t": 1606246054,
+        "uploader": "kiliweb"
+      },
+      "front_fr": {
+        "angle": 0,
+        "geometry": "0x0--1--1",
+        "imgid": "3",
+        "normalize": null,
+        "rev": "13",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 46
+          },
+          "200": {
+            "h": 200,
+            "w": 93
+          },
+          "400": {
+            "h": 400,
+            "w": 186
+          },
+          "full": {
+            "h": 1200,
+            "w": 557
+          }
+        },
+        "white_magic": null,
+        "x1": "-1",
+        "x2": "-1",
+        "y1": "-1",
+        "y2": "-1"
+      },
+      "ingredients_fr": {
+        "angle": null,
+        "geometry": "0x0-0-0",
+        "imgid": "2",
+        "normalize": "0",
+        "ocr": 1,
+        "orientation": "0",
+        "rev": "7",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 50
+          },
+          "200": {
+            "h": 200,
+            "w": 100
+          },
+          "400": {
+            "h": 400,
+            "w": 200
+          },
+          "full": {
+            "h": 1200,
+            "w": 600
+          }
+        },
+        "white_magic": "0",
+        "x1": null,
+        "x2": null,
+        "y1": null,
+        "y2": null
+      },
+      "nutrition_fr": {
+        "angle": 0,
+        "geometry": "0x0--1--1",
+        "imgid": "4",
+        "normalize": null,
+        "rev": "15",
+        "sizes": {
+          "100": {
+            "h": 94,
+            "w": 100
+          },
+          "200": {
+            "h": 189,
+            "w": 200
+          },
+          "400": {
+            "h": 378,
+            "w": 400
+          },
+          "full": {
+            "h": 1200,
+            "w": 1271
+          }
+        },
+        "white_magic": null,
+        "x1": "-1",
+        "x2": "-1",
+        "y1": "-1",
+        "y2": "-1"
+      }
+    },
+    "informers_tags": [
+      "yuka.YUtvaEgvZ1AvZnRTcDhjZzFDejErdU4xNjdYMEFVaStMY1VXSVE9PQ",
+      "kiliweb",
+      "teolemon",
+      "sebleouf",
+      "montiitalia4-gmail-com",
+      "telperion87",
+      "naruyoko"
+    ],
+    "ingredients": [
+      {
+        "id": "fr:opesto-alla-genovese-ingredien-sasilico",
+        "is_in_taxonomy": 0,
+        "percent": 38,
+        "percent_estimate": 38,
+        "text": "OPESTO ALLA GENOVESE Ingredien Sasilico"
+      },
+      {
+        "id": "fr:olio-di-semi-di-girasole",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 31,
+        "text": "olio di semi di girasole"
+      },
+      {
+        "id": "fr:olio-di-oive-14-nacardi",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 15.5,
+        "text": "olio di oive 14 nacardi"
+      },
+      {
+        "id": "fr:formaggio-grattfugiato",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 7.75,
+        "text": "formaggio grattfugiato"
+      },
+      {
+        "id": "fr:contene-latte-ovo-4-farina-di-fiso",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 3.875,
+        "text": "contene latte ovo 4% farina di fiso"
+      },
+      {
+        "id": "fr:pecorino-romano-dop-ontiene-latte",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 1.9375,
+        "text": "pecorino romano DOP ontiene latte"
+      },
+      {
+        "id": "fr:zucchero-sale",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0.96875,
+        "text": "zuccherO sale"
+      },
+      {
+        "id": "fr:pinoli",
+        "is_in_taxonomy": 0,
+        "percent": 1,
+        "percent_estimate": 0.96875,
+        "text": "pinoli"
+      },
+      {
+        "id": "fr:aglio-19-aromi",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "aglio 19 aromi"
+      },
+      {
+        "id": "fr:correttore-di-acidita-acido-lattico",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "correttore di acidita acido lattico"
+      },
+      {
+        "id": "fr:puo-cổnterere-tracce-di-altra-frutta-a-guscio",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "Può cổnterere tracce di altra frutta a guscio"
+      },
+      {
+        "id": "fr:peșce",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "peșce"
+      },
+      {
+        "id": "fr:sedano",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "sedano"
+      },
+      {
+        "id": "fr:solfiti",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "solfiti"
+      },
+      {
+        "id": "fr:una-volta-aperto-conservare-in-frigorifero-e-consumare-entro5-giorni",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "Una volta aperto conservare in frigorifero e consumare entro5 giorni"
+      },
+      {
+        "id": "fr:da-consumarsi-preferibilmente-entro-fine-vedi-capsula",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "Da consumarsi preferibilmente entro fine vedi capsula"
+      },
+      {
+        "id": "fr:slo-pesto-alla-genovese",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "SLO PESTO ALLA GENOVESE"
+      },
+      {
+        "id": "fr:sestavine",
+        "ingredients": [
+          {
+            "id": "fr:bazilka",
+            "is_in_taxonomy": 0,
+            "percent": 38,
+            "percent_estimate": 0,
+            "text": "bazilka"
+          }
+        ],
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "Sestavine"
+      },
+      {
+        "id": "fr:sončnično-olje",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "sončnično olje"
+      },
+      {
+        "id": "fr:olično-olje",
+        "is_in_taxonomy": 0,
+        "percent": 14,
+        "percent_estimate": 0,
+        "text": "olično olje"
+      },
+      {
+        "id": "fr:indijski-oreščki-naribani-sir",
+        "ingredients": [
+          {
+            "id": "fr:mleko",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0,
+            "text": "mléko"
+          },
+          {
+            "id": "fr:jaica",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0,
+            "text": "jaica"
+          }
+        ],
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "indijski oreščki naribani sir"
+      },
+      {
+        "id": "fr:riževa-moka",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "riževa moka"
+      },
+      {
+        "id": "fr:si-pecorino-romano-dop-fnlek-sladkor",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "sI pecorino romano DOP fnlek sladkor"
+      },
+      {
+        "id": "fr:pinjole-1-cesen",
+        "is_in_taxonomy": 0,
+        "percent": 1,
+        "percent_estimate": 0,
+        "text": "pinjole 1% cesen"
+      },
+      {
+        "id": "en:flavouring",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0,
+        "text": "arome",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      },
+      {
+        "id": "fr:sredstvo-ravnavanje-kislosti",
+        "ingredients": [
+          {
+            "id": "fr:mlecna-kislina",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0,
+            "text": "mlecna kislina"
+          },
+          {
+            "id": "fr:lahko-vsebuje-drugih-oresčkov-rib",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0,
+            "text": "Lahko vsebuje drugih oresčkov rib"
+          }
+        ],
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "sredstvo ravnavanje kislosti"
+      },
+      {
+        "id": "fr:zelene",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "zelene"
+      },
+      {
+        "id": "fr:sulfitov",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "sulfitov"
+      },
+      {
+        "id": "fr:ae-so-poudarien-o",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "AE SO POUDARIEN o"
+      },
+      {
+        "id": "fr:odprtju-hraniti-v-hladilh-n-porabiti-v-roku-mi",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "odprtju hraniti v hladilh n porabiti v roku mi"
+      },
+      {
+        "id": "fr:uporabno-najmanj-do-koa-glejte-pokro",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "Uporabno najmanj do koa glejte pokro"
+      },
+      {
+        "id": "fr:mmagine-rappresenta-esclysivae-up-suggermen-duso-del-prodotto",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "mmagine rappresenta esclysivae up suggermen duso del prodotto"
+      },
+      {
+        "id": "fr:sika-je-simboli-redlog-za-serviranje-pa-190ge",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "Sika je simboli redlog za serviranje Pa 190ge"
+      }
+    ],
+    "ingredients_analysis": {
+      "en:palm-oil-content-unknown": [
+        "fr:opesto-alla-genovese-ingredien-sasilico",
+        "fr:olio-di-semi-di-girasole",
+        "fr:olio-di-oive-14-nacardi",
+        "fr:formaggio-grattfugiato",
+        "fr:contene-latte-ovo-4-farina-di-fiso",
+        "fr:pecorino-romano-dop-ontiene-latte",
+        "fr:zucchero-sale",
+        "fr:pinoli",
+        "fr:aglio-19-aromi",
+        "fr:correttore-di-acidita-acido-lattico",
+        "fr:puo-cổnterere-tracce-di-altra-frutta-a-guscio",
+        "fr:peșce",
+        "fr:sedano",
+        "fr:solfiti",
+        "fr:una-volta-aperto-conservare-in-frigorifero-e-consumare-entro5-giorni",
+        "fr:da-consumarsi-preferibilmente-entro-fine-vedi-capsula",
+        "fr:slo-pesto-alla-genovese",
+        "fr:sestavine",
+        "fr:bazilka",
+        "fr:sončnično-olje",
+        "fr:olično-olje",
+        "fr:indijski-oreščki-naribani-sir",
+        "fr:mleko",
+        "fr:jaica",
+        "fr:riževa-moka",
+        "fr:si-pecorino-romano-dop-fnlek-sladkor",
+        "fr:pinjole-1-cesen",
+        "fr:sredstvo-ravnavanje-kislosti",
+        "fr:mlecna-kislina",
+        "fr:lahko-vsebuje-drugih-oresčkov-rib",
+        "fr:zelene",
+        "fr:sulfitov",
+        "fr:ae-so-poudarien-o",
+        "fr:odprtju-hraniti-v-hladilh-n-porabiti-v-roku-mi",
+        "fr:uporabno-najmanj-do-koa-glejte-pokro",
+        "fr:mmagine-rappresenta-esclysivae-up-suggermen-duso-del-prodotto",
+        "fr:sika-je-simboli-redlog-za-serviranje-pa-190ge"
+      ],
+      "en:vegan-status-unknown": [
+        "fr:opesto-alla-genovese-ingredien-sasilico",
+        "fr:olio-di-semi-di-girasole",
+        "fr:olio-di-oive-14-nacardi",
+        "fr:formaggio-grattfugiato",
+        "fr:contene-latte-ovo-4-farina-di-fiso",
+        "fr:pecorino-romano-dop-ontiene-latte",
+        "fr:zucchero-sale",
+        "fr:pinoli",
+        "fr:aglio-19-aromi",
+        "fr:correttore-di-acidita-acido-lattico",
+        "fr:puo-cổnterere-tracce-di-altra-frutta-a-guscio",
+        "fr:peșce",
+        "fr:sedano",
+        "fr:solfiti",
+        "fr:una-volta-aperto-conservare-in-frigorifero-e-consumare-entro5-giorni",
+        "fr:da-consumarsi-preferibilmente-entro-fine-vedi-capsula",
+        "fr:slo-pesto-alla-genovese",
+        "fr:sestavine",
+        "fr:bazilka",
+        "fr:sončnično-olje",
+        "fr:olično-olje",
+        "fr:indijski-oreščki-naribani-sir",
+        "fr:mleko",
+        "fr:jaica",
+        "fr:riževa-moka",
+        "fr:si-pecorino-romano-dop-fnlek-sladkor",
+        "fr:pinjole-1-cesen",
+        "fr:sredstvo-ravnavanje-kislosti",
+        "fr:mlecna-kislina",
+        "fr:lahko-vsebuje-drugih-oresčkov-rib",
+        "fr:zelene",
+        "fr:sulfitov",
+        "fr:ae-so-poudarien-o",
+        "fr:odprtju-hraniti-v-hladilh-n-porabiti-v-roku-mi",
+        "fr:uporabno-najmanj-do-koa-glejte-pokro",
+        "fr:mmagine-rappresenta-esclysivae-up-suggermen-duso-del-prodotto",
+        "fr:sika-je-simboli-redlog-za-serviranje-pa-190ge"
+      ],
+      "en:vegetarian-status-unknown": [
+        "fr:opesto-alla-genovese-ingredien-sasilico",
+        "fr:olio-di-semi-di-girasole",
+        "fr:olio-di-oive-14-nacardi",
+        "fr:formaggio-grattfugiato",
+        "fr:contene-latte-ovo-4-farina-di-fiso",
+        "fr:pecorino-romano-dop-ontiene-latte",
+        "fr:zucchero-sale",
+        "fr:pinoli",
+        "fr:aglio-19-aromi",
+        "fr:correttore-di-acidita-acido-lattico",
+        "fr:puo-cổnterere-tracce-di-altra-frutta-a-guscio",
+        "fr:peșce",
+        "fr:sedano",
+        "fr:solfiti",
+        "fr:una-volta-aperto-conservare-in-frigorifero-e-consumare-entro5-giorni",
+        "fr:da-consumarsi-preferibilmente-entro-fine-vedi-capsula",
+        "fr:slo-pesto-alla-genovese",
+        "fr:sestavine",
+        "fr:bazilka",
+        "fr:sončnično-olje",
+        "fr:olično-olje",
+        "fr:indijski-oreščki-naribani-sir",
+        "fr:mleko",
+        "fr:jaica",
+        "fr:riževa-moka",
+        "fr:si-pecorino-romano-dop-fnlek-sladkor",
+        "fr:pinjole-1-cesen",
+        "fr:sredstvo-ravnavanje-kislosti",
+        "fr:mlecna-kislina",
+        "fr:lahko-vsebuje-drugih-oresčkov-rib",
+        "fr:zelene",
+        "fr:sulfitov",
+        "fr:ae-so-poudarien-o",
+        "fr:odprtju-hraniti-v-hladilh-n-porabiti-v-roku-mi",
+        "fr:uporabno-najmanj-do-koa-glejte-pokro",
+        "fr:mmagine-rappresenta-esclysivae-up-suggermen-duso-del-prodotto",
+        "fr:sika-je-simboli-redlog-za-serviranje-pa-190ge"
+      ]
+    },
+    "ingredients_analysis_tags": [
+      "en:palm-oil-content-unknown",
+      "en:vegan-status-unknown",
+      "en:vegetarian-status-unknown"
+    ],
+    "ingredients_debug": [],
+    "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+    "ingredients_from_palm_oil_n": 0,
+    "ingredients_from_palm_oil_tags": [],
+    "ingredients_hierarchy": [
+      "fr:opesto-alla-genovese-ingredien-sasilico",
+      "fr:olio-di-semi-di-girasole",
+      "fr:olio-di-oive-14-nacardi",
+      "fr:formaggio-grattfugiato",
+      "fr:contene-latte-ovo-4-farina-di-fiso",
+      "fr:pecorino-romano-dop-ontiene-latte",
+      "fr:zucchero-sale",
+      "fr:pinoli",
+      "fr:aglio-19-aromi",
+      "fr:correttore-di-acidita-acido-lattico",
+      "fr:puo-cổnterere-tracce-di-altra-frutta-a-guscio",
+      "fr:peșce",
+      "fr:sedano",
+      "fr:solfiti",
+      "fr:una-volta-aperto-conservare-in-frigorifero-e-consumare-entro5-giorni",
+      "fr:da-consumarsi-preferibilmente-entro-fine-vedi-capsula",
+      "fr:slo-pesto-alla-genovese",
+      "fr:sestavine",
+      "fr:sončnično-olje",
+      "fr:olično-olje",
+      "fr:indijski-oreščki-naribani-sir",
+      "fr:riževa-moka",
+      "fr:si-pecorino-romano-dop-fnlek-sladkor",
+      "fr:pinjole-1-cesen",
+      "en:flavouring",
+      "fr:sredstvo-ravnavanje-kislosti",
+      "fr:zelene",
+      "fr:sulfitov",
+      "fr:ae-so-poudarien-o",
+      "fr:odprtju-hraniti-v-hladilh-n-porabiti-v-roku-mi",
+      "fr:uporabno-najmanj-do-koa-glejte-pokro",
+      "fr:mmagine-rappresenta-esclysivae-up-suggermen-duso-del-prodotto",
+      "fr:sika-je-simboli-redlog-za-serviranje-pa-190ge",
+      "fr:bazilka",
+      "fr:mleko",
+      "fr:jaica",
+      "fr:mlecna-kislina",
+      "fr:lahko-vsebuje-drugih-oresčkov-rib"
+    ],
+    "ingredients_ids_debug": [],
+    "ingredients_lc": "fr",
+    "ingredients_n": 38,
+    "ingredients_n_tags": [
+      "38",
+      "31-40"
+    ],
+    "ingredients_non_nutritive_sweeteners_n": 0,
+    "ingredients_original_tags": [
+      "fr:opesto-alla-genovese-ingredien-sasilico",
+      "fr:olio-di-semi-di-girasole",
+      "fr:olio-di-oive-14-nacardi",
+      "fr:formaggio-grattfugiato",
+      "fr:contene-latte-ovo-4-farina-di-fiso",
+      "fr:pecorino-romano-dop-ontiene-latte",
+      "fr:zucchero-sale",
+      "fr:pinoli",
+      "fr:aglio-19-aromi",
+      "fr:correttore-di-acidita-acido-lattico",
+      "fr:puo-cổnterere-tracce-di-altra-frutta-a-guscio",
+      "fr:peșce",
+      "fr:sedano",
+      "fr:solfiti",
+      "fr:una-volta-aperto-conservare-in-frigorifero-e-consumare-entro5-giorni",
+      "fr:da-consumarsi-preferibilmente-entro-fine-vedi-capsula",
+      "fr:slo-pesto-alla-genovese",
+      "fr:sestavine",
+      "fr:sončnično-olje",
+      "fr:olično-olje",
+      "fr:indijski-oreščki-naribani-sir",
+      "fr:riževa-moka",
+      "fr:si-pecorino-romano-dop-fnlek-sladkor",
+      "fr:pinjole-1-cesen",
+      "en:flavouring",
+      "fr:sredstvo-ravnavanje-kislosti",
+      "fr:zelene",
+      "fr:sulfitov",
+      "fr:ae-so-poudarien-o",
+      "fr:odprtju-hraniti-v-hladilh-n-porabiti-v-roku-mi",
+      "fr:uporabno-najmanj-do-koa-glejte-pokro",
+      "fr:mmagine-rappresenta-esclysivae-up-suggermen-duso-del-prodotto",
+      "fr:sika-je-simboli-redlog-za-serviranje-pa-190ge",
+      "fr:bazilka",
+      "fr:mleko",
+      "fr:jaica",
+      "fr:mlecna-kislina",
+      "fr:lahko-vsebuje-drugih-oresčkov-rib"
+    ],
+    "ingredients_percent_analysis": -1,
+    "ingredients_sweeteners_n": 0,
+    "ingredients_tags": [
+      "fr:opesto-alla-genovese-ingredien-sasilico",
+      "fr:olio-di-semi-di-girasole",
+      "fr:olio-di-oive-14-nacardi",
+      "fr:formaggio-grattfugiato",
+      "fr:contene-latte-ovo-4-farina-di-fiso",
+      "fr:pecorino-romano-dop-ontiene-latte",
+      "fr:zucchero-sale",
+      "fr:pinoli",
+      "fr:aglio-19-aromi",
+      "fr:correttore-di-acidita-acido-lattico",
+      "fr:puo-cổnterere-tracce-di-altra-frutta-a-guscio",
+      "fr:peșce",
+      "fr:sedano",
+      "fr:solfiti",
+      "fr:una-volta-aperto-conservare-in-frigorifero-e-consumare-entro5-giorni",
+      "fr:da-consumarsi-preferibilmente-entro-fine-vedi-capsula",
+      "fr:slo-pesto-alla-genovese",
+      "fr:sestavine",
+      "fr:sončnično-olje",
+      "fr:olično-olje",
+      "fr:indijski-oreščki-naribani-sir",
+      "fr:riževa-moka",
+      "fr:si-pecorino-romano-dop-fnlek-sladkor",
+      "fr:pinjole-1-cesen",
+      "en:flavouring",
+      "fr:sredstvo-ravnavanje-kislosti",
+      "fr:zelene",
+      "fr:sulfitov",
+      "fr:ae-so-poudarien-o",
+      "fr:odprtju-hraniti-v-hladilh-n-porabiti-v-roku-mi",
+      "fr:uporabno-najmanj-do-koa-glejte-pokro",
+      "fr:mmagine-rappresenta-esclysivae-up-suggermen-duso-del-prodotto",
+      "fr:sika-je-simboli-redlog-za-serviranje-pa-190ge",
+      "fr:bazilka",
+      "fr:mleko",
+      "fr:jaica",
+      "fr:mlecna-kislina",
+      "fr:lahko-vsebuje-drugih-oresčkov-rib"
+    ],
+    "ingredients_text": "OPESTO ALLA GENOVESE Ingredien Sasilico 38%, olio di semi di girasole, olio di oive 14 nacardi, formaggio grattfugiato (contene latte ovo 4% farina di fiso, pecorino romano DOP ontiene latte, zuccherO sale, pinoli 1%, aglio 19 aromi, correttore di acidita acido lattico. Può cổnterere tracce di altra frutta a guscio, peșce, sedano, solfiti. Una volta aperto conservare in frigorifero e consumare entro5 giorni. Da consumarsi preferibilmente entro fine vedi capsula. SLO PESTO ALLA GENOVESE - Sestavine: bazilka 38%, sončnično olje, olično olje 14%, indijski oreščki naribani sir (mléko, jaica) riževa moka, sI pecorino romano DOP fnlek sladkor, pinjole 1% cesen 1%, arome, sredstvo ravnavanje kislosti: mlecna kislina. Lahko vsebuje drugih oresčkov rib, zelene, sulfitov. AE SO POUDARIEN o,odprtju hraniti v hladilh n porabiti v roku mi. Uporabno najmanj do koa glejte pokro. mmagine rappresenta esclysivae up suggermen duso del prodotto. Sika je simboli redlog za serviranje Pa 190ge",
+    "ingredients_text_fr": "OPESTO ALLA GENOVESE Ingredien Sasilico 38%, olio di semi di girasole, olio di oive 14 nacardi, formaggio grattfugiato (contene latte ovo 4% farina di fiso, pecorino romano DOP ontiene latte, zuccherO sale, pinoli 1%, aglio 19 aromi, correttore di acidita acido lattico. Può cổnterere tracce di altra frutta a guscio, peșce, sedano, solfiti. Una volta aperto conservare in frigorifero e consumare entro5 giorni. Da consumarsi preferibilmente entro fine vedi capsula. SLO PESTO ALLA GENOVESE - Sestavine: bazilka 38%, sončnično olje, olično olje 14%, indijski oreščki naribani sir (mléko, jaica) riževa moka, sI pecorino romano DOP fnlek sladkor, pinjole 1% cesen 1%, arome, sredstvo ravnavanje kislosti: mlecna kislina. Lahko vsebuje drugih oresčkov rib, zelene, sulfitov. AE SO POUDARIEN o,odprtju hraniti v hladilh n porabiti v roku mi. Uporabno najmanj do koa glejte pokro. mmagine rappresenta esclysivae up suggermen duso del prodotto. Sika je simboli redlog za serviranje Pa 190ge",
+    "ingredients_text_with_allergens": "OPESTO ALLA GENOVESE Ingredien Sasilico 38%, olio di semi di girasole, olio di oive 14 nacardi, formaggio grattfugiato (contene latte ovo 4% farina di fiso, pecorino romano DOP ontiene latte, zuccherO sale, pinoli 1%, aglio 19 aromi, correttore di acidita acido lattico. Può cổnterere tracce di altra frutta a guscio, peșce, sedano, solfiti. Una volta aperto conservare in frigorifero e consumare entro5 giorni. Da consumarsi preferibilmente entro fine vedi capsula. SLO PESTO ALLA GENOVESE - Sestavine: bazilka 38%, sončnično olje, olično olje 14%, indijski oreščki naribani sir (mléko, jaica) riževa moka, sI pecorino romano DOP fnlek sladkor, pinjole 1% cesen 1%, arome, sredstvo ravnavanje kislosti: mlecna kislina. Lahko vsebuje drugih oresčkov rib, zelene, sulfitov. AE SO POUDARIEN o,odprtju hraniti v hladilh n porabiti v roku mi. Uporabno najmanj do koa glejte pokro. mmagine rappresenta esclysivae up suggermen duso del prodotto. Sika je simboli redlog za serviranje Pa 190ge",
+    "ingredients_text_with_allergens_fr": "OPESTO ALLA GENOVESE Ingredien Sasilico 38%, olio di semi di girasole, olio di oive 14 nacardi, formaggio grattfugiato (contene latte ovo 4% farina di fiso, pecorino romano DOP ontiene latte, zuccherO sale, pinoli 1%, aglio 19 aromi, correttore di acidita acido lattico. Può cổnterere tracce di altra frutta a guscio, peșce, sedano, solfiti. Una volta aperto conservare in frigorifero e consumare entro5 giorni. Da consumarsi preferibilmente entro fine vedi capsula. SLO PESTO ALLA GENOVESE - Sestavine: bazilka 38%, sončnično olje, olično olje 14%, indijski oreščki naribani sir (mléko, jaica) riževa moka, sI pecorino romano DOP fnlek sladkor, pinjole 1% cesen 1%, arome, sredstvo ravnavanje kislosti: mlecna kislina. Lahko vsebuje drugih oresčkov rib, zelene, sulfitov. AE SO POUDARIEN o,odprtju hraniti v hladilh n porabiti v roku mi. Uporabno najmanj do koa glejte pokro. mmagine rappresenta esclysivae up suggermen duso del prodotto. Sika je simboli redlog za serviranje Pa 190ge",
+    "ingredients_that_may_be_from_palm_oil_n": 0,
+    "ingredients_that_may_be_from_palm_oil_tags": [],
+    "ingredients_with_specified_percent_n": 5,
+    "ingredients_with_specified_percent_sum": 92,
+    "ingredients_with_unspecified_percent_n": 30,
+    "ingredients_with_unspecified_percent_sum": 61.03125,
+    "ingredients_without_ciqual_codes": [
+      "en:flavouring",
+      "fr:ae-so-poudarien-o",
+      "fr:aglio-19-aromi",
+      "fr:bazilka",
+      "fr:contene-latte-ovo-4-farina-di-fiso",
+      "fr:correttore-di-acidita-acido-lattico",
+      "fr:da-consumarsi-preferibilmente-entro-fine-vedi-capsula",
+      "fr:formaggio-grattfugiato",
+      "fr:indijski-oreščki-naribani-sir",
+      "fr:jaica",
+      "fr:lahko-vsebuje-drugih-oresčkov-rib",
+      "fr:mlecna-kislina",
+      "fr:mleko",
+      "fr:mmagine-rappresenta-esclysivae-up-suggermen-duso-del-prodotto",
+      "fr:odprtju-hraniti-v-hladilh-n-porabiti-v-roku-mi",
+      "fr:olio-di-oive-14-nacardi",
+      "fr:olio-di-semi-di-girasole",
+      "fr:olično-olje",
+      "fr:opesto-alla-genovese-ingredien-sasilico",
+      "fr:pecorino-romano-dop-ontiene-latte",
+      "fr:peșce",
+      "fr:pinjole-1-cesen",
+      "fr:pinoli",
+      "fr:puo-cổnterere-tracce-di-altra-frutta-a-guscio",
+      "fr:riževa-moka",
+      "fr:sedano",
+      "fr:sestavine",
+      "fr:si-pecorino-romano-dop-fnlek-sladkor",
+      "fr:sika-je-simboli-redlog-za-serviranje-pa-190ge",
+      "fr:slo-pesto-alla-genovese",
+      "fr:solfiti",
+      "fr:sončnično-olje",
+      "fr:sredstvo-ravnavanje-kislosti",
+      "fr:sulfitov",
+      "fr:una-volta-aperto-conservare-in-frigorifero-e-consumare-entro5-giorni",
+      "fr:uporabno-najmanj-do-koa-glejte-pokro",
+      "fr:zelene",
+      "fr:zucchero-sale"
+    ],
+    "ingredients_without_ciqual_codes_n": 38,
+    "ingredients_without_ecobalyse_ids": [
+      "en:flavouring",
+      "fr:ae-so-poudarien-o",
+      "fr:aglio-19-aromi",
+      "fr:bazilka",
+      "fr:contene-latte-ovo-4-farina-di-fiso",
+      "fr:correttore-di-acidita-acido-lattico",
+      "fr:da-consumarsi-preferibilmente-entro-fine-vedi-capsula",
+      "fr:formaggio-grattfugiato",
+      "fr:indijski-oreščki-naribani-sir",
+      "fr:jaica",
+      "fr:lahko-vsebuje-drugih-oresčkov-rib",
+      "fr:mlecna-kislina",
+      "fr:mleko",
+      "fr:mmagine-rappresenta-esclysivae-up-suggermen-duso-del-prodotto",
+      "fr:odprtju-hraniti-v-hladilh-n-porabiti-v-roku-mi",
+      "fr:olio-di-oive-14-nacardi",
+      "fr:olio-di-semi-di-girasole",
+      "fr:olično-olje",
+      "fr:opesto-alla-genovese-ingredien-sasilico",
+      "fr:pecorino-romano-dop-ontiene-latte",
+      "fr:peșce",
+      "fr:pinjole-1-cesen",
+      "fr:pinoli",
+      "fr:puo-cổnterere-tracce-di-altra-frutta-a-guscio",
+      "fr:riževa-moka",
+      "fr:sedano",
+      "fr:sestavine",
+      "fr:si-pecorino-romano-dop-fnlek-sladkor",
+      "fr:sika-je-simboli-redlog-za-serviranje-pa-190ge",
+      "fr:slo-pesto-alla-genovese",
+      "fr:solfiti",
+      "fr:sončnično-olje",
+      "fr:sredstvo-ravnavanje-kislosti",
+      "fr:sulfitov",
+      "fr:una-volta-aperto-conservare-in-frigorifero-e-consumare-entro5-giorni",
+      "fr:uporabno-najmanj-do-koa-glejte-pokro",
+      "fr:zelene",
+      "fr:zucchero-sale"
+    ],
+    "ingredients_without_ecobalyse_ids_n": 38,
+    "interface_version_created": "20150316.jqm2",
+    "interface_version_modified": "20150316.jqm2",
+    "known_ingredients_n": 1,
+    "lang": "it",
+    "languages": {
+      "en:french": 5
+    },
+    "languages_codes": {
+      "fr": 5
+    },
+    "languages_hierarchy": [
+      "en:french"
+    ],
+    "languages_tags": [
+      "en:french",
+      "en:1"
+    ],
+    "last_edit_dates_tags": [
+      "2023-06-17",
+      "2023-06",
+      "2023"
+    ],
+    "last_editor": "naruyoko",
+    "last_image_dates_tags": [
+      "2020-11-24",
+      "2020-11",
+      "2020"
+    ],
+    "last_image_t": 1606246054,
+    "last_modified_by": "naruyoko",
+    "last_modified_t": 1687022842,
+    "last_updated_t": 1743357166,
+    "lc": "it",
+    "main_countries_tags": [],
+    "max_imgid": "4",
+    "minerals_prev_tags": [],
+    "minerals_tags": [],
+    "misc_tags": [
+      "en:at-least-5-ingredients-with-specified-percent",
+      "en:environmental-score-computed",
+      "en:environmental-score-missing-data-labels",
+      "en:environmental-score-missing-data-no-packagings",
+      "en:environmental-score-missing-data-origins",
+      "en:environmental-score-missing-data-packagings",
+      "en:environmental-score-missing-data-warning",
+      "en:nutriscore-2021-e-2023-e",
+      "en:nutriscore-2021-same-as-2023",
+      "en:nutriscore-computed",
+      "en:nutrition-fruits-vegetables-legumes-estimate-from-ingredients",
+      "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+      "en:nutrition-no-fiber",
+      "en:nutrition-no-fiber-or-fruits-vegetables-nuts",
+      "en:packagings-empty",
+      "en:packagings-not-complete",
+      "en:packagings-number-of-components-0",
+      "en:some-ingredients-with-specified-percent"
+    ],
+    "no_nutrition_data": "",
+    "nova_group": 4,
+    "nova_group_debug": "",
+    "nova_groups": "4",
+    "nova_groups_markers": {
+      "4": [
+        [
+          "ingredients",
+          "en:flavouring"
+        ]
+      ]
+    },
+    "nova_groups_tags": [
+      "en:4-ultra-processed-food-and-drink-products"
+    ],
+    "nucleotides_prev_tags": [],
+    "nucleotides_tags": [],
+    "nutrient_levels": {
+      "fat": "high",
+      "salt": "high",
+      "saturated-fat": "high",
+      "sugars": "low"
+    },
+    "nutrient_levels_tags": [
+      "en:fat-in-high-quantity",
+      "en:saturated-fat-in-high-quantity",
+      "en:sugars-in-low-quantity",
+      "en:salt-in-high-quantity"
+    ],
+    "nutriments": {
+      "carbohydrates": 5.7,
+      "carbohydrates_100g": 5.7,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 5.7,
+      "energy": 1632,
+      "energy-kcal": 390,
+      "energy-kcal_100g": 390,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 390,
+      "energy-kcal_value_computed": 382,
+      "energy_100g": 1632,
+      "energy_unit": "kcal",
+      "energy_value": 390,
+      "fat": 38,
+      "fat_100g": 38,
+      "fat_unit": "g",
+      "fat_value": 38,
+      "fruits-vegetables-legumes-estimate-from-ingredients_100g": 0,
+      "fruits-vegetables-legumes-estimate-from-ingredients_serving": 0,
+      "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0,
+      "fruits-vegetables-nuts-estimate-from-ingredients_serving": 0,
+      "nova-group": 4,
+      "nova-group_100g": 4,
+      "nova-group_serving": 4,
+      "nutrition-score-fr": 23,
+      "nutrition-score-fr_100g": 23,
+      "proteins": 4.3,
+      "proteins_100g": 4.3,
+      "proteins_unit": "g",
+      "proteins_value": 4.3,
+      "salt": 3,
+      "salt_100g": 3,
+      "salt_unit": "g",
+      "salt_value": 3,
+      "saturated-fat": 5.1,
+      "saturated-fat_100g": 5.1,
+      "saturated-fat_unit": "g",
+      "saturated-fat_value": 5.1,
+      "sodium": 1.2,
+      "sodium_100g": 1.2,
+      "sodium_unit": "g",
+      "sodium_value": 1.2,
+      "sugars": 3,
+      "sugars_100g": 3,
+      "sugars_unit": "g",
+      "sugars_value": 3
+    },
+    "nutriscore": {
+      "2021": {
+        "category_available": 1,
+        "data": {
+          "energy": 1632,
+          "energy_points": 4,
+          "energy_value": 1632,
+          "fiber": 0,
+          "fiber_points": 0,
+          "fiber_value": 0,
+          "fruits_vegetables_nuts_colza_walnut_olive_oils": 0,
+          "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+          "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 0,
+          "is_beverage": 0,
+          "is_cheese": 0,
+          "is_fat": 0,
+          "is_water": 0,
+          "negative_points": 19,
+          "positive_points": 0,
+          "proteins": 4.3,
+          "proteins_points": 2,
+          "proteins_value": 4.3,
+          "saturated_fat": 5.1,
+          "saturated_fat_points": 5,
+          "saturated_fat_value": 5.1,
+          "sodium": 1200,
+          "sodium_points": 10,
+          "sodium_value": 1200,
+          "sugars": 3,
+          "sugars_points": 0,
+          "sugars_value": 3
+        },
+        "grade": "e",
+        "nutrients_available": 1,
+        "nutriscore_applicable": 1,
+        "nutriscore_computed": 1,
+        "score": 19
+      },
+      "2023": {
+        "category_available": 1,
+        "data": {
+          "components": {
+            "negative": [
+              {
+                "id": "energy",
+                "points": 4,
+                "points_max": 10,
+                "unit": "kJ",
+                "value": 1632
+              },
+              {
+                "id": "sugars",
+                "points": 0,
+                "points_max": 15,
+                "unit": "g",
+                "value": 3
+              },
+              {
+                "id": "saturated_fat",
+                "points": 5,
+                "points_max": 10,
+                "unit": "g",
+                "value": 5.1
+              },
+              {
+                "id": "salt",
+                "points": 14,
+                "points_max": 20,
+                "unit": "g",
+                "value": 3
+              }
+            ],
+            "positive": [
+              {
+                "id": "fiber",
+                "points": 0,
+                "points_max": 5,
+                "unit": "g",
+                "value": null
+              },
+              {
+                "id": "fruits_vegetables_legumes",
+                "points": 0,
+                "points_max": 5,
+                "unit": "%",
+                "value": 0
+              }
+            ]
+          },
+          "count_proteins": 0,
+          "count_proteins_reason": "negative_points_greater_than_or_equal_to_11",
+          "is_beverage": 0,
+          "is_cheese": 0,
+          "is_fat_oil_nuts_seeds": 0,
+          "is_red_meat_product": 0,
+          "is_water": 0,
+          "negative_points": 23,
+          "negative_points_max": 55,
+          "positive_nutrients": [
+            "fiber",
+            "fruits_vegetables_legumes"
+          ],
+          "positive_points": 0,
+          "positive_points_max": 10
+        },
+        "grade": "e",
+        "nutrients_available": 1,
+        "nutriscore_applicable": 1,
+        "nutriscore_computed": 1,
+        "score": 23
+      }
+    },
+    "nutriscore_2021_tags": [
+      "e"
+    ],
+    "nutriscore_2023_tags": [
+      "e"
+    ],
+    "nutriscore_data": {
+      "components": {
+        "negative": [
+          {
+            "id": "energy",
+            "points": 4,
+            "points_max": 10,
+            "unit": "kJ",
+            "value": 1632
+          },
+          {
+            "id": "sugars",
+            "points": 0,
+            "points_max": 15,
+            "unit": "g",
+            "value": 3
+          },
+          {
+            "id": "saturated_fat",
+            "points": 5,
+            "points_max": 10,
+            "unit": "g",
+            "value": 5.1
+          },
+          {
+            "id": "salt",
+            "points": 14,
+            "points_max": 20,
+            "unit": "g",
+            "value": 3
+          }
+        ],
+        "positive": [
+          {
+            "id": "fiber",
+            "points": 0,
+            "points_max": 5,
+            "unit": "g",
+            "value": null
+          },
+          {
+            "id": "fruits_vegetables_legumes",
+            "points": 0,
+            "points_max": 5,
+            "unit": "%",
+            "value": 0
+          }
+        ]
+      },
+      "count_proteins": 0,
+      "count_proteins_reason": "negative_points_greater_than_or_equal_to_11",
+      "grade": "e",
+      "is_beverage": 0,
+      "is_cheese": 0,
+      "is_fat_oil_nuts_seeds": 0,
+      "is_red_meat_product": 0,
+      "is_water": 0,
+      "negative_points": 23,
+      "negative_points_max": 55,
+      "positive_nutrients": [
+        "fiber",
+        "fruits_vegetables_legumes"
+      ],
+      "positive_points": 0,
+      "positive_points_max": 10,
+      "score": 23
+    },
+    "nutriscore_grade": "e",
+    "nutriscore_score": 23,
+    "nutriscore_score_opposite": -23,
+    "nutriscore_tags": [
+      "e"
+    ],
+    "nutriscore_version": "2023",
+    "nutrition_data_per": "100g",
+    "nutrition_data_prepared_per": "100g",
+    "nutrition_grade_fr": "e",
+    "nutrition_grades": "e",
+    "nutrition_grades_tags": [
+      "e"
+    ],
+    "nutrition_score_beverage": 0,
+    "nutrition_score_debug": "",
+    "nutrition_score_warning_fruits_vegetables_legumes_estimate_from_ingredients": 1,
+    "nutrition_score_warning_fruits_vegetables_legumes_estimate_from_ingredients_value": 0,
+    "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+    "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 0,
+    "nutrition_score_warning_no_fiber": 1,
+    "other_nutritional_substances_prev_tags": [],
+    "other_nutritional_substances_tags": [],
+    "packaging_materials_tags": [],
+    "packaging_recycling_tags": [],
+    "packaging_shapes_tags": [],
+    "packagings": [],
+    "packagings_materials": {},
+    "photographers_tags": [
+      "kiliweb"
+    ],
+    "pnns_groups_1": "Fat and sauces",
+    "pnns_groups_1_tags": [
+      "fat-and-sauces",
+      "known"
+    ],
+    "pnns_groups_2": "Dressings and sauces",
+    "pnns_groups_2_tags": [
+      "dressings-and-sauces",
+      "known"
+    ],
+    "popularity_key": 1,
+    "popularity_tags": [
+      "bottom-25-percent-scans-2019",
+      "bottom-20-percent-scans-2019",
+      "top-85-percent-scans-2019",
+      "top-90-percent-scans-2019",
+      "top-10000-it-scans-2019",
+      "top-50000-it-scans-2019",
+      "top-100000-it-scans-2019",
+      "top-country-it-scans-2019",
+      "top-1000-tn-scans-2019",
+      "top-5000-tn-scans-2019",
+      "top-10000-tn-scans-2019",
+      "top-50000-tn-scans-2019",
+      "top-100000-tn-scans-2019",
+      "bottom-25-percent-scans-2020",
+      "bottom-20-percent-scans-2020",
+      "top-85-percent-scans-2020",
+      "top-90-percent-scans-2020",
+      "top-1000-hu-scans-2020",
+      "top-5000-hu-scans-2020",
+      "top-10000-hu-scans-2020",
+      "top-50000-hu-scans-2020",
+      "top-100000-hu-scans-2020",
+      "top-country-hu-scans-2020",
+      "bottom-25-percent-scans-2021",
+      "top-80-percent-scans-2021",
+      "top-85-percent-scans-2021",
+      "top-90-percent-scans-2021",
+      "top-1000-hr-scans-2021",
+      "top-5000-hr-scans-2021",
+      "top-10000-hr-scans-2021",
+      "top-50000-hr-scans-2021",
+      "top-100000-hr-scans-2021",
+      "top-country-hr-scans-2021",
+      "bottom-25-percent-scans-2022",
+      "top-80-percent-scans-2022",
+      "top-85-percent-scans-2022",
+      "top-90-percent-scans-2022",
+      "top-50000-it-scans-2022",
+      "top-100000-it-scans-2022",
+      "top-country-it-scans-2022",
+      "top-75-percent-scans-2024",
+      "top-80-percent-scans-2024",
+      "top-85-percent-scans-2024",
+      "top-90-percent-scans-2024",
+      "top-50000-ma-scans-2024",
+      "top-100000-ma-scans-2024",
+      "top-country-ma-scans-2024"
+    ],
+    "product_name": "Pesto alla Genovese",
+    "product_name_fr": "Pesto alla Genovese",
+    "product_quantity": "190",
+    "product_quantity_unit": "g",
+    "product_type": "food",
+    "quantity": "190 g",
+    "removed_countries_tags": [],
+    "rev": 17,
+    "scans_n": 1,
+    "schema_version": 998,
+    "selected_images": {
+      "front": {
+        "display": {
+          "fr": "https://images.openfoodfacts.org/images/products/801/759/605/0625/front_fr.13.400.jpg"
+        },
+        "small": {
+          "fr": "https://images.openfoodfacts.org/images/products/801/759/605/0625/front_fr.13.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://images.openfoodfacts.org/images/products/801/759/605/0625/front_fr.13.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "fr": "https://images.openfoodfacts.org/images/products/801/759/605/0625/ingredients_fr.7.400.jpg"
+        },
+        "small": {
+          "fr": "https://images.openfoodfacts.org/images/products/801/759/605/0625/ingredients_fr.7.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://images.openfoodfacts.org/images/products/801/759/605/0625/ingredients_fr.7.100.jpg"
+        }
+      },
+      "nutrition": {
+        "display": {
+          "fr": "https://images.openfoodfacts.org/images/products/801/759/605/0625/nutrition_fr.15.400.jpg"
+        },
+        "small": {
+          "fr": "https://images.openfoodfacts.org/images/products/801/759/605/0625/nutrition_fr.15.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://images.openfoodfacts.org/images/products/801/759/605/0625/nutrition_fr.15.100.jpg"
+        }
+      }
+    },
+    "sortkey": 1606246055,
+    "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:origins-to-be-completed, en:categories-completed, en:brands-completed, en:packaging-to-be-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:packaging-photo-to-be-selected, en:nutrition-photo-to-be-selected, en:ingredients-photo-to-be-selected, en:front-photo-to-be-selected, en:photos-uploaded",
+    "states_hierarchy": [
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-to-be-completed",
+      "en:origins-to-be-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-to-be-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-validated",
+      "en:packaging-photo-to-be-selected",
+      "en:nutrition-photo-to-be-selected",
+      "en:ingredients-photo-to-be-selected",
+      "en:front-photo-to-be-selected",
+      "en:photos-uploaded"
+    ],
+    "states_tags": [
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-to-be-completed",
+      "en:origins-to-be-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-to-be-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-validated",
+      "en:packaging-photo-to-be-selected",
+      "en:nutrition-photo-to-be-selected",
+      "en:ingredients-photo-to-be-selected",
+      "en:front-photo-to-be-selected",
+      "en:photos-uploaded"
+    ],
+    "stores": "Eurospin",
+    "stores_tags": [
+      "eurospin"
+    ],
+    "teams": "italy",
+    "teams_tags": [
+      "italy"
+    ],
+    "traces": "",
+    "traces_from_ingredients": "",
+    "traces_from_user": "(it) ",
+    "traces_hierarchy": [],
+    "traces_tags": [],
+    "unique_scans_n": 1,
+    "unknown_ingredients_n": 37,
+    "unknown_nutrients_tags": [],
+    "update_key": "brands",
+    "vitamins_prev_tags": [],
+    "vitamins_tags": [],
+    "weighers_tags": []
+  },
+  "status": 1,
+  "status_verbose": "product found"
+}
