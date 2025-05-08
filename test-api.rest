@@ -1,5 +1,7 @@
 @baseUrl=https://world.openfoodfacts.org/cgi
 @apiUrl=https://us.openfoodfacts.org/api
+@italySimpleSearchUrlStart=https://world.openfoodfacts.org/cgi/search.pl?search_terms=
+@italySimpleSearchUrlEnd=&search_simple=1&action=process&json=1&page_size=10&tagtype_0=countries&tag_contains_0=contains&tag_0=italy
 @searchEndPoint=/search.pl
 @nutrient=protein
 @quantity=100
@@ -36,9 +38,13 @@ GET {{apiUrl}}{{pestoAllaGenoveseConad}}
 ###
 # @name pestoLidl
 GET {{apiUrl}}{{pestoAllaGenoveseLidl}}
+
 ###
 # @name pestoEurospin
 GET {{apiUrl}}{{pestoAllaGenoveseEurospin}}
 
+###
+# @name simpleSearchItaly
+GET {{italySimpleSearchUrlStart}}pesto{{italySimpleSearchUrlStart}}
 
 # download REST CLIENT huachao mao 
